@@ -38,20 +38,20 @@ GROQ_API_KEY=your_groq_key
 
 3. Launch the application:
 ```bash
-streamlit run app.py
+streamlit run capstone_1.py
 ```
 
 ## Project Structure
 
-- `app.py`: Main application file
-- `styles.css`: Custom styling for the interface
-- `.env`: Environment variables configuration
+- `capstone_1.py`: Main application file
+- `.env`: Environment variables configuration 
 
 ## Usage
 
 1. Click "Start Debate" to begin the conversation
 2. Watch as the AI personas discuss their technological contributions
 3. After the debate concludes, click "Judge Debate" for the final verdict
+
 
 ## Future Enhancements
 
